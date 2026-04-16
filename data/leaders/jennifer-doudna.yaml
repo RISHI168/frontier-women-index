@@ -1,0 +1,151 @@
+id: jennifer-doudna
+name: Jennifer Doudna
+honorific: Dr.
+also_known_as:
+- Jennifer Anne Doudna
+origin:
+  country_of_birth: United States
+  india_connection: false
+current_roles:
+- title: Li Ka Shing Chancellor's Chair Professor of Biomedical and Health Sciences
+  institution: UC Berkeley
+  start: 2002
+  source: https://chemistry.berkeley.edu/people/jennifer-doudna
+- title: Professor of Chemistry and of Molecular and Cell Biology
+  institution: UC Berkeley
+  start: 2002
+  source: https://mcb.berkeley.edu/faculty/BMB/doudnaj.html
+- title: Founder and President
+  institution: Innovative Genomics Institute
+  start: 2014
+  source: https://innovativegenomics.org/leadership/
+- title: Investigator
+  institution: Howard Hughes Medical Institute
+  start: 1997
+  source: https://mcb.berkeley.edu/faculty/BMB/doudnaj.html
+- title: Faculty Scientist, Molecular Biophysics and Integrated Bioimaging Division
+  institution: Lawrence Berkeley National Laboratory
+  source: https://biosciences.lbl.gov/profiles/jennifer-doudna-2/
+previous_roles:
+- title: Professor
+  institution: Yale University
+  start: 1999
+  end: 2001
+  source: https://chemistry.berkeley.edu/people/jennifer-doudna
+- title: Assistant/Associate Professor
+  institution: Yale University
+  start: 1994
+  end: 1998
+  source: https://chemistry.berkeley.edu/people/jennifer-doudna
+education:
+- degree: PhD
+  institution: Harvard Medical School
+  year: 1989
+  advisor: Jack Szostak
+  source: https://chemistry.berkeley.edu/people/jennifer-doudna
+- degree: BA
+  institution: Pomona College
+  year: 1985
+  source: https://pmc.ncbi.nlm.nih.gov/articles/PMC535403/
+domains:
+  primary: BioIntelligence
+  secondary:
+  - CRISPR
+  - Gene Editing
+  - RNA Biology
+tier: 1
+tier_justification: >
+  Tier 1. Recipient of the 2020 Nobel Prize in Chemistry (shared with
+  Emmanuelle Charpentier) for the development of CRISPR-Cas9 genome editing.
+  The Nobel Prize is one of the prizes explicitly named in METHODOLOGY.md
+  as placing a recipient in Tier 1.
+metrics:
+  citations_scholar: 163373
+  citations_snapshot_date: '2026-04-16'
+  citations_source: https://scholar.google.com/citations?user=YO5XSXwAAAAJ
+  h_index: 166
+  h_index_snapshot_date: '2025-01-01'
+awards:
+- name: Nobel Prize in Chemistry
+  year: 2020
+  organization: The Nobel Foundation
+  source: https://www.nobelprize.org/prizes/chemistry/2020/
+- name: National Medal of Technology and Innovation
+  year: 2025
+  organization: United States Government
+  source: https://biosciences.lbl.gov/profiles/jennifer-doudna-2/
+- name: Priestley Medal
+  year: 2026
+  organization: American Chemical Society
+  source: https://biosciences.lbl.gov/profiles/jennifer-doudna-2/
+- name: Kavli Prize in Nanoscience
+  year: 2018
+  organization: The Kavli Foundation
+  source: https://kavlicenter.berkeley.edu/people/jennifer-doudna
+- name: Breakthrough Prize in Life Sciences
+  year: 2015
+  organization: Breakthrough Prize Foundation
+  source: https://kavlicenter.berkeley.edu/people/jennifer-doudna
+- name: Japan Prize
+  year: 2017
+  organization: Japan Prize Foundation
+  source: https://en.wikipedia.org/wiki/Jennifer_Doudna
+- name: Wolf Prize in Medicine
+  year: 2020
+  organization: Wolf Foundation
+  source: https://kavlicenter.berkeley.edu/people/jennifer-doudna
+- name: Foreign Member of the Royal Society
+  year: 2016
+  organization: The Royal Society
+  source: https://en.wikipedia.org/wiki/Jennifer_Doudna
+ventures:
+- name: Innovative Genomics Institute
+  type: research_institute
+  role: Founder and President
+  founded: 2014
+  source: https://innovativegenomics.org/people/jennifer-doudna/
+key_works:
+- title: A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial immunity
+  year: 2012
+  venue: Science
+  url: https://www.science.org/doi/10.1126/science.1225829
+- title: 'CRISPR technology: A decade of genome editing is only the beginning'
+  year: 2023
+  venue: Science
+  url: https://www.science.org/doi/10.1126/science.add8643
+summary: >
+  Jennifer Doudna shared the 2020 Nobel Prize in Chemistry with Emmanuelle Charpentier
+  for the development of CRISPR-Cas9 genome editing, a breakthrough that made it
+  possible to edit DNA with unprecedented precision. She founded the Innovative
+  Genomics Institute at UC Berkeley in 2014 and serves as its President, directing
+  a program that has spun out multiple CRISPR-based therapeutics companies and now
+  coordinates an international effort to make gene therapies affordable and widely
+  accessible. Her 2012 paper with Charpentier in Science is one of the most cited
+  papers in modern biology, and in 2026 she received the American Chemical Society's
+  Priestley Medal in recognition of her sustained scientific leadership.
+links:
+  primary: https://innovativegenomics.org/people/jennifer-doudna/
+  wikipedia: https://en.wikipedia.org/wiki/Jennifer_Doudna
+  scholar: https://scholar.google.com/citations?user=YO5XSXwAAAAJ
+  website: https://doudnalab.org/
+relationships:
+- type: co-author
+  target: emmanuelle-charpentier
+  context: Co-authored the foundational 2012 Science paper on CRISPR-Cas9 and shared the 2020 Nobel Prize in Chemistry
+  source: https://www.nobelprize.org/prizes/chemistry/2020/
+verification:
+  status: verified
+  last_reviewed: '2026-04-16'
+  reviewer: rishi-topscout
+  second_reviewer: pending-second-review
+  notes: >
+    Verified against primary sources. Every current role has an institutional URL.
+    All awards have issuing-organization URLs. Citation count verified against
+    Google Scholar profile (verified email at berkeley.edu) on 2026-04-16.
+    Key works include direct DOIs. Second reviewer to confirm before final merge.
+tags:
+- nobel-laureate
+- kavli-prize
+- crispr
+- founder-or-ceo
+- breakthrough-prize

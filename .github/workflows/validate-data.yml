@@ -1,0 +1,43 @@
+name: Validate Data
+
+on:
+  pull_request:
+    paths:
+      - "data/**"
+      - "scripts/validate_data.py"
+      - "data/schema/**"
+      - ".github/workflows/validate-data.yml"
+  push:
+    branches: [main]
+    paths:
+      - "data/**"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install pyyaml jsonschema
+
+      - name: Validate schema conformance
+        run: python scripts/validate_data.py
+
+      - name: Validate (strict mode) on push to main
+        if: github.event_name == 'push'
+        run: python scripts/validate_data.py --strict
+        continue-on-error: true
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "Validation complete."
+          echo "Total leader files: $(ls data/leaders/*.yaml | wc -l)"

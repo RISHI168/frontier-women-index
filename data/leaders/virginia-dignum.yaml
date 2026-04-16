@@ -1,0 +1,32 @@
+id: virginia-dignum
+name: Virginia Dignum
+origin:
+  country_of_birth: Netherlands
+  country_of_work: Sweden
+  migration_path:
+  - Netherlands
+  - Sweden
+  india_connection: false
+current_roles:
+- title: Professor
+  institution: Umeå University
+domains:
+  primary: AI
+  secondary:
+  - Responsible AI
+tier: 4
+tier_justification: Tier 4 (Major Leader). Tagged as 'EU AI Policy Architect'. Placeholder justification
+  — to be fleshed out with specific criteria citations during verification pass. See METHODOLOGY.md for
+  tier definitions.
+summary: Member of EU High-Level Expert Group on AI that shaped the EU AI Act. Author of 'Responsible
+  AI.' Leading voice in responsible AI frameworks in Europe.
+links:
+  primary: https://en.wikipedia.org/wiki/Virginia_Dignum
+  wikipedia: https://en.wikipedia.org/wiki/Virginia_Dignum
+verification:
+  status: partially_verified
+  last_reviewed: '2026-04-16'
+  reviewer: migration-script
+  notes: Migrated from original JSX artifact on 2026-04-16. Needs manual verification pass before status
+    can be upgraded to 'verified'. Tier 1 entries are explicitly marked 'unverified' until they receive
+    a full sourcing pass with every claim backed by a URL.

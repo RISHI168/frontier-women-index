@@ -1,0 +1,31 @@
+id: danica-kragic
+name: Danica Kragic
+origin:
+  country_of_birth: Bosnia
+  country_of_work: Sweden
+  migration_path:
+  - Bosnia
+  - Sweden
+  india_connection: false
+current_roles:
+- title: Professor
+  institution: KTH Royal Institute of Technology
+domains:
+  primary: Robotics
+  secondary:
+  - Computer Vision
+tier: 4
+tier_justification: Tier 4 (Major Leader). Tagged as 'European Robotics Leader'. Placeholder justification
+  — to be fleshed out with specific criteria citations during verification pass. See METHODOLOGY.md for
+  tier definitions.
+summary: One of Europe's most influential roboticists. IEEE Fellow, Royal Swedish Academy. Research on
+  robotic grasping, manipulation, and human-robot interaction at scale.
+links:
+  primary: https://www.kth.se/profile/dani
+verification:
+  status: partially_verified
+  last_reviewed: '2026-04-16'
+  reviewer: migration-script
+  notes: Migrated from original JSX artifact on 2026-04-16. Needs manual verification pass before status
+    can be upgraded to 'verified'. Tier 1 entries are explicitly marked 'unverified' until they receive
+    a full sourcing pass with every claim backed by a URL.

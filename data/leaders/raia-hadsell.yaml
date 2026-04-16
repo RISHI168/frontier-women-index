@@ -1,0 +1,31 @@
+id: raia-hadsell
+name: Raia Hadsell
+origin:
+  country_of_birth: United States
+  country_of_work: United Kingdom
+  migration_path:
+  - United States
+  - United Kingdom
+  india_connection: false
+current_roles:
+- title: VP of Research
+  institution: Google DeepMind
+domains:
+  primary: AI
+  secondary:
+  - Continual Learning
+tier: 4
+tier_justification: Tier 4 (Major Leader). Tagged as 'Continual Learning Pioneer'. Placeholder justification
+  — to be fleshed out with specific criteria citations during verification pass. See METHODOLOGY.md for
+  tier definitions.
+summary: Pioneer in continual learning and robotics at DeepMind. Co-developed contrastive learning methods
+  fundamental to modern representation learning.
+links:
+  primary: https://raiahadsell.com/
+verification:
+  status: partially_verified
+  last_reviewed: '2026-04-16'
+  reviewer: migration-script
+  notes: Migrated from original JSX artifact on 2026-04-16. Needs manual verification pass before status
+    can be upgraded to 'verified'. Tier 1 entries are explicitly marked 'unverified' until they receive
+    a full sourcing pass with every claim backed by a URL.

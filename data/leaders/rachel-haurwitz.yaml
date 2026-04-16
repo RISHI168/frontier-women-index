@@ -1,0 +1,26 @@
+id: rachel-haurwitz
+name: Rachel Haurwitz
+origin:
+  country_of_birth: United States
+  india_connection: false
+current_roles:
+- title: CEO
+  institution: Mammoth Biosciences
+domains:
+  primary: BioIntelligence
+  secondary:
+  - CRISPR Diagnostics
+tier: 5
+tier_justification: Tier 5 (Rising Star). Tagged as 'CRISPR Diagnostics'. Placeholder justification —
+  to be fleshed out with specific criteria citations during verification pass. See METHODOLOGY.md for
+  tier definitions.
+summary: First startup from Doudna's lab. CRISPR-based rapid diagnostics platform. Forbes 30 Under 30.
+links:
+  primary: https://mammoth.bio/about/
+verification:
+  status: partially_verified
+  last_reviewed: '2026-04-16'
+  reviewer: migration-script
+  notes: Migrated from original JSX artifact on 2026-04-16. Needs manual verification pass before status
+    can be upgraded to 'verified'. Tier 1 entries are explicitly marked 'unverified' until they receive
+    a full sourcing pass with every claim backed by a URL.
