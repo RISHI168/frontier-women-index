@@ -1,1 +1,116 @@
 date,leader_id,name,citations,h_index,source_url,notes
+2026-10-19,abigail-jacobs,Abigail Jacobs,2781,32,https://www.semanticscholar.org/author/33370964,ok
+2026-10-19,alice-zhang,Alice Zhang,435,9,https://www.semanticscholar.org/author/38385142,ok
+2026-10-19,ana-maria-rey,Ana Maria Rey,,,,lookup_error: http_429
+2026-10-19,andrea-ghez,Andrea Ghez,16252,62,https://www.semanticscholar.org/author/4850757,ok
+2026-10-19,angela-saini,Angela Saini,,,,lookup_error: http_429
+2026-10-19,anima-anandkumar,Anima Anandkumar,44261,76,https://www.semanticscholar.org/author/2047844,ok
+2026-10-19,anne-e-carpenter,Anne E. Carpenter,37048,83,https://www.semanticscholar.org/author/1721012,ok
+2026-10-19,aviv-regev,Aviv Regev,,,,lookup_error: http_429
+2026-10-19,ayanna-howard,Ayanna Howard,,,,lookup_error: http_429
+2026-10-19,barbara-grosz,Barbara Grosz,,,,lookup_error: http_429
+2026-10-19,been-kim,Been Kim,,,,lookup_error: http_429
+2026-10-19,bindu-reddy,Bindu Reddy,190,2,https://www.semanticscholar.org/author/50114704,ok
+2026-10-19,carolyn-bertozzi,Carolyn Bertozzi,70198,127,https://www.semanticscholar.org/author/4236727,ok
+2026-10-19,cassie-kozyrkov,Cassie Kozyrkov,,,,lookup_error: http_429
+2026-10-19,celeste-kidd,Celeste Kidd,3300,18,https://www.semanticscholar.org/author/144584048,ok
+2026-10-19,chelsea-finn,Chelsea Finn,2573,11,https://www.semanticscholar.org/author/2347538211,ok
+2026-10-19,christina-agapakis,Christina Agapakis,,,,lookup_error: http_429
+2026-10-19,christina-smolke,Christina Smolke,10635,52,https://www.semanticscholar.org/author/2999817,ok
+2026-10-19,cornelia-bargmann,Cornelia Bargmann,47090,112,https://www.semanticscholar.org/author/3912040,ok
+2026-10-19,cynthia-breazeal,Cynthia Breazeal,27112,84,https://www.semanticscholar.org/author/1711777,ok
+2026-10-19,cynthia-rudin,Cynthia Rudin,31031,62,https://www.semanticscholar.org/author/48395540,ok
+2026-10-19,danica-kragic,Danica Kragic,19562,71,https://www.semanticscholar.org/author/1731490,ok
+2026-10-19,daniela-amodei,Daniela Amodei,,,,lookup_error: http_429
+2026-10-19,daniela-rus,Daniela Rus,70242,133,https://www.semanticscholar.org/author/145944286,ok
+2026-10-19,daphne-koller,Daphne Koller,81178,127,https://www.semanticscholar.org/author/1736370,ok
+2026-10-19,dawn-song,Dawn Song,691,6,https://www.semanticscholar.org/author/2262420606,ok
+2026-10-19,deborah-raji,Deborah Raji,9726,27,https://www.semanticscholar.org/author/81316798,ok
+2026-10-19,devi-sridhar,Devi Sridhar,1034,6,https://www.semanticscholar.org/author/2328083058,ok
+2026-10-19,diyi-yang,Diyi Yang,6331,36,https://www.semanticscholar.org/author/2143919864,ok
+2026-10-19,doina-precup,Doina Precup,37013,67,https://www.semanticscholar.org/author/144368601,ok
+2026-10-19,emily-bender,Emily Bender,,,,lookup_error: http_429
+2026-10-19,emmanuelle-charpentier,Emmanuelle Charpentier,26612,21,https://www.semanticscholar.org/author/4698446,ok
+2026-10-19,fei-fei-li,Fei-Fei Li,260,6,https://www.semanticscholar.org/author/2118842512,ok
+2026-10-19,fei-xia,Fei Xia,,,,lookup_error: http_429
+2026-10-19,finale-doshi-velez,Finale Doshi-Velez,19590,57,https://www.semanticscholar.org/author/1388372395,ok
+2026-10-19,gagandeep-kang,Gagandeep Kang,26541,81,https://www.semanticscholar.org/author/144983389,ok
+2026-10-19,geetha-manjunath,Geetha Manjunath,657,13,https://www.semanticscholar.org/author/144476768,ok
+2026-10-19,gwynne-shotwell,Gwynne Shotwell,13,3,https://www.semanticscholar.org/author/96114317,low_confidence
+2026-10-19,hayat-sindi,Hayat Sindi,1360,2,https://www.semanticscholar.org/author/47529003,ok
+2026-10-19,hima-lakkaraju,Hima Lakkaraju,10516,48,https://www.semanticscholar.org/author/1892673,ok
+2026-10-19,huda-zoghbi,Huda Zoghbi,18481,61,https://www.semanticscholar.org/author/7031533,ok
+2026-10-19,jaime-teevan,Jaime Teevan,16643,59,https://www.semanticscholar.org/author/144113253,ok
+2026-10-19,jayshree-ullal,Jayshree Ullal,,,,no_match
+2026-10-19,jennifer-doudna,Jennifer Doudna,102657,140,https://www.semanticscholar.org/author/4448238,ok
+2026-10-19,jess-mega,Jess Mega,,,,no_match
+2026-10-19,jianying-hu,Jianying Hu,133,4,https://www.semanticscholar.org/author/15157948,ok
+2026-10-19,joanna-bryson,Joanna Bryson,,,,lookup_error: http_429
+2026-10-19,joelle-pineau,Joelle Pineau,31374,73,https://www.semanticscholar.org/author/145134886,ok
+2026-10-19,jolle-barral,Joëlle Barral,8074,15,https://www.semanticscholar.org/author/3658427,ok
+2026-10-19,joy-buolamwini,Joy Buolamwini,7267,9,https://www.semanticscholar.org/author/38222513,ok
+2026-10-19,jyoti-joshi,Jyoti Joshi,1030,14,https://www.semanticscholar.org/author/2056083538,ok
+2026-10-19,kamakshi-sivaramakrishnan,Kamakshi Sivaramakrishnan,122,5,https://www.semanticscholar.org/author/39091119,ok
+2026-10-19,katalin-kariko,Katalin Karikó,23337,52,https://www.semanticscholar.org/author/4684425,ok
+2026-10-19,kate-crawford,Kate Crawford,13048,39,https://www.semanticscholar.org/author/48024382,ok
+2026-10-19,katherine-gorman,Katherine Gorman,89,5,https://www.semanticscholar.org/author/2048071246,low_confidence
+2026-10-19,kiran-mazumdar-shaw,Kiran Mazumdar-Shaw,128,6,https://www.semanticscholar.org/author/1421992434,ok
+2026-10-19,krista-donaldson,Krista Donaldson,692,13,https://www.semanticscholar.org/author/29446588,ok
+2026-10-19,lakshmi-kalyani-chinthala,Lakshmi Kalyani Chinthala,,,,lookup_error: http_429
+2026-10-19,lila-ibrahim,Lila Ibrahim,122,3,https://www.semanticscholar.org/author/2309477701,ok
+2026-10-19,lisa-su,Lisa Su,115,4,https://www.semanticscholar.org/author/152314619,ok
+2026-10-19,lucy-jones,Lucy Jones,403,13,https://www.semanticscholar.org/author/29074983,ok
+2026-10-19,lucy-vasserman,Lucy Vasserman,,,,lookup_error: http_429
+2026-10-19,maja-pantic,Maja Pantić,,,,lookup_error: http_429
+2026-10-19,manuela-veloso,Manuela Veloso,37366,82,https://www.semanticscholar.org/author/1956361,ok
+2026-10-19,maria-florina-balcan,Maria-Florina Balcan,,,,lookup_error: http_429
+2026-10-19,marzyeh-ghassemi,Marzyeh Ghassemi,16756,57,https://www.semanticscholar.org/author/2804918,ok
+2026-10-19,may-britt-moser,May-Britt Moser,41595,78,https://www.semanticscholar.org/author/37661215,ok
+2026-10-19,meenal-gupta-noor-fatma-sheetal-tarkas,"Meenal Gupta, Noor Fatma & Sheetal Tarkas",,,,lookup_error: http_429
+2026-10-19,michelle-simmons,Michelle Simmons,255,4,https://www.semanticscholar.org/author/41234337,ok
+2026-10-19,mihaela-van-der-schaar,Mihaela van der Schaar,31453,78,https://www.semanticscholar.org/author/147624263,ok
+2026-10-19,mira-murati,Mira Murati,44970,5,https://www.semanticscholar.org/author/2117715631,ok
+2026-10-19,mirella-lapata,Mirella Lapata,,,,lookup_error: http_429
+2026-10-19,molly-stevens,Molly Stevens,,,,lookup_error: http_429
+2026-10-19,muthayya-vanitha,Muthayya Vanitha,,,,no_match
+2026-10-19,nancy-kanwisher,Nancy Kanwisher,55496,104,https://www.semanticscholar.org/author/1931482,ok
+2026-10-19,niki-parmar,Niki Parmar,209046,22,https://www.semanticscholar.org/author/3877127,ok
+2026-10-19,olga-russakovsky,Olga Russakovsky,46771,13,https://www.semanticscholar.org/author/2314850892,ok
+2026-10-19,pardis-sabeti,Pardis Sabeti,48998,85,https://www.semanticscholar.org/author/2138522,ok
+2026-10-19,pilar-manchon,Pilar Manchón,259,8,https://www.semanticscholar.org/author/146627338,ok
+2026-10-19,poppy-crum,Poppy Crum,348,8,https://www.semanticscholar.org/author/3422944,ok
+2026-10-19,priscilla-chan,Priscilla Chan,816,10,https://www.semanticscholar.org/author/33076383,ok
+2026-10-19,rachel-haurwitz,Rachel Haurwitz,1433,5,https://www.semanticscholar.org/author/8610656,ok
+2026-10-19,raia-hadsell,Raia Hadsell,52550,53,https://www.semanticscholar.org/author/2315504,ok
+2026-10-19,rana-el-kaliouby,Rana el Kaliouby,2443,23,https://www.semanticscholar.org/author/8981698,ok
+2026-10-19,raquel-urtasun,Raquel Urtasun,83510,119,https://www.semanticscholar.org/author/2422559,ok
+2026-10-19,rediet-abebe,Rediet Abebe,2819,20,https://www.semanticscholar.org/author/5651696,ok
+2026-10-19,regina-barzilay,Regina Barzilay,,,,lookup_error: http_429
+2026-10-19,ritu-karidhal-srivastava,Ritu Karidhal Srivastava,,,,no_match
+2026-10-19,ritwika-chowdhury,Ritwika Chowdhury,24,1,https://www.semanticscholar.org/author/2394696542,low_confidence
+2026-10-19,rosalind-picard,Rosalind Picard,,,,lookup_error: http_429
+2026-10-19,ruchi-gupta,Dr. Ruchi Gupta,1,1,https://www.semanticscholar.org/author/2153327066,low_confidence
+2026-10-19,rumman-chowdhury,Rumman Chowdhury,,,,lookup_error: http_429
+2026-10-19,safra-catz,Safra Catz,,,,no_match
+2026-10-19,samantha-cristoforetti,Samantha Cristoforetti,172,5,https://www.semanticscholar.org/author/10760024,ok
+2026-10-19,sara-hooker,Sara Hooker,,,,lookup_error: http_429
+2026-10-19,sara-seager,Sara Seager,36384,89,https://www.semanticscholar.org/author/152324479,ok
+2026-10-19,sarah-chen,Sarah Chen,,,,lookup_error: http_429
+2026-10-19,sarah-teichmann,Sarah Teichmann,68740,117,https://www.semanticscholar.org/author/3334474,ok
+2026-10-19,sasha-luccioni,Sasha Luccioni,8514,26,https://www.semanticscholar.org/author/2993731,ok
+2026-10-19,sharon-li,Sharon Li,,,,lookup_error: http_429
+2026-10-19,shirley-ho,Shirley Ho,5769,39,https://www.semanticscholar.org/author/15788018,ok
+2026-10-19,shubha-tole,Shubha Tole,5084,40,https://www.semanticscholar.org/author/6484746,ok
+2026-10-19,suchi-saria,Suchi Saria,11829,47,https://www.semanticscholar.org/author/1932128,ok
+2026-10-19,sunita-sarawagi,Sunita Sarawagi,13636,53,https://www.semanticscholar.org/author/1770124,ok
+2026-10-19,swati-mohan,Swati Mohan,645,14,https://www.semanticscholar.org/author/46944069,ok
+2026-10-19,tessy-thomas,Dr. Tessy Thomas,59,3,https://www.semanticscholar.org/author/2110757306,low_confidence
+2026-10-19,timnit-gebru,Timnit Gebru,26111,19,https://www.semanticscholar.org/author/2076288,ok
+2026-10-19,tina-eliassi-rad,Tina Eliassi-Rad,13250,43,https://www.semanticscholar.org/author/1397398770,ok
+2026-10-19,tu-youyou,Tu Youyou,,,,lookup_error: http_429
+2026-10-19,usha-rengaraju,Usha Rengaraju,1,1,https://www.semanticscholar.org/author/2374663783,low_confidence
+2026-10-19,virginia-dignum,Virginia Dignum,3138,26,https://www.semanticscholar.org/author/71343039,ok
+2026-10-19,yamuna-krishnan,Yamuna Krishnan,6638,39,https://www.semanticscholar.org/author/2185900,ok
+2026-10-19,yejin-choi,Yejin Choi,205,6,https://www.semanticscholar.org/author/50657735,ok
+2026-10-19,yoky-matsuoka,Yoky Matsuoka,4070,34,https://www.semanticscholar.org/author/1723726,ok
+2026-10-19,yolanda-gil,Yolanda Gil,434,6,https://www.semanticscholar.org/author/2261212675,ok
